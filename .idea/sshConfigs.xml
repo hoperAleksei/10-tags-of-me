@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="server-edu.me" id="45d41b50-7e72-494b-af8f-dcbf5924099d" keyPath="C:\Users\Aleksei\.ssh\server_key.pem" port="22" nameFormat="DESCRIPTIVE" username="aleksei" />
+    </configs>
+  </component>
+</project>
